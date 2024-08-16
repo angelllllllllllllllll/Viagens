@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(127, 255, 212, 0.192);
+    text-align: center;
+    margin: 10px;
+}
+.titulo{
+    color: rgb(26, 105, 174);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    text-decoration: none;
+    color: blue;
+}

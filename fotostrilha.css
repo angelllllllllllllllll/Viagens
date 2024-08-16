@@ -1,0 +1,20 @@
+body{
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(188, 253, 253);
+
+}
+img{
+    max-width: 100%;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr 0.5fr ;
+    justify-items: end;
+    gap: 1px;
+    max-width: 100%;
+    margin: 30px 30px 30px 30px;
+    padding: 5px 5px;
+    
+}
